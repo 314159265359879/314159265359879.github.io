@@ -1,3 +1,3 @@
-##314.btc.us
+314.btc.us
 
 On the web, secured by Bitcoin through Stacks
